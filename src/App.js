@@ -2,9 +2,9 @@ import React, { useState } from 'react'
 import Counter from './Counter';
 
 const messages = [
-  "Learn React",
-  "Apply for jobs",
-  "Invest your new income"
+  "Learn React ⚛️",
+  "Apply for jobs 💼",
+  "Invest your new income 🤑",
 ]
 
 const App = () => {
